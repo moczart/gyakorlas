@@ -1,0 +1,61 @@
+body{
+	background-color: #fff000;
+}
+html{
+	margin: 0;
+}
+#container{
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 5%;
+	border: 8px groove;
+}
+.head{
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	border: 8px groove;
+	text-align: center;
+	border-radius: 33px 0px 33px 0px;
+}
+.menu{
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	border: 8px groove;
+	border-radius: 33px 0px 33px 0px;
+}
+.content{
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	border: 8px groove;
+	border-radius: 33px 0px 33px 0px;
+}
+.footer{
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	border: 8px groove;
+	margin-bottom: 10px;
+	font-family: 'Mouse Memoirs', sans-serif;
+	font-family: 'Shadows Into Light', cursive;
+	font-family: 'Square Peg', cursive;
+	font-size: 22px;
+	text-align: center;
+	border-radius: 33px 0px 33px 0px;
+}
+h1{
+	font-family: 'Mouse Memoirs', sans-serif;
+	font-size: 88px;
+}
+.content p{
+	font-family: 'Mouse Memoirs', sans-serif;
+font-family: 'Square Peg', cursive;
+font-size: 32px;
+padding: 5px;
+text-indent: 15px;
+}
+h3{
+	text-indent: 22px;
+}
